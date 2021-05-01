@@ -98,7 +98,7 @@ Bagerhat,Self,35,Male,3,School Secondary Certificate,Rickshaw puller/van puller,
 Bagerhat,Self,45,Female,3,Primary ,Day labor,24000
 Bagerhat,Self,55,Male,4,School Secondary Certificate,Famers,140000
 Bagerhat,Self,45,Male,5,Primary ,Fishermen,150000
-Bagerhat,Self,46,Male,5,Primary ,Day labor,1750000
+Bagerhat,Self,46,Male,5,Primary ,Day labor,175000
 Bagerhat,Wife,35,Female,5,Primary ,Day labor,72000
 Bagerhat,Self,40,Male,5,Literate,Fishermen,180000
 Bagerhat,Self,62,Male,5,School Secondary Certificate,Famers,160000
@@ -182,7 +182,6 @@ Bagerhat,Self,46,Male,5,Primary ,Business,180000
 Bagerhat,Husband,22,Female,3,School Secondary Certificate,Housewife,84000
 Bagerhat,Father,32,Female,7,Primary ,Housewife,96000
 Khulna,Father,17,Female,4,School Secondary Certificate,Tailoring,100000
-,,,,,,,
 Khulna,Self,30,Male,4,Primary ,NGO job,90000
 Khulna,Self,40,Male,4,School Secondary Certificate,NGO job,80000
 Khulna,Self,39,Male,4,Primary ,Day labor,72000
@@ -315,7 +314,7 @@ Bagerhat,Self,78,Male,3,Never went to school,Housewife,84000
 Bagerhat,Self,29,Female,5,Literate,Day labor,60000
 Bagerhat,Husband,45,Female,6,Literate,Housewife,120000
 Bagerhat,Husband,55,Female,5,Literate,Business,72
-Bagerhat,Husband,32,Female,3,School Secondary Certificate,Housewife,72
+Bagerhat,Husband,32,Female,3,School Secondary Certificate,Housewife,72000
 Bagerhat,Self,32,Male,4,Primary ,Fishermen,120000
 Bagerhat,Husband,30,Female,7,Primary ,Day labor,120000
 Bagerhat,Husband,38,Female,7,Primary ,Housewife,96000
